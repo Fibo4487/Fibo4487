@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fibo4487 and my name is Hayeong Kim
-- 👀 I’m interested in Java. JavaScript, JSP, HTML, CSS, Jquery, SQL
+- 👀 I’m interested in JavaScript, React, HTML, CSS, NodeJS, Express, TypeScript
 - 🌱 I’m currently learning Wep development
 - 💞️ I’m looking to collaborate on Other student in Institute
 - 📫 How to reach me on email fibonacci2246@gmail.com
