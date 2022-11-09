@@ -1,12 +1,8 @@
 [![waving](https://capsule-render.vercel.app/api?type=waving&color=344765:344765,4F6188:4F6188&text=Kim%20Hayeong&fontColor=BBC8CA&fontAlign=80&fontAlignY=30&fontSize=40&height=180&desc=Front-End%20Developer&descAlign=84&descAlignY=55&animation=fadeIn)](https://github.com/kyechan99/capsule-render)
 
-# 반갑습니다! 🙂
+# 제 프로필에 오신 여러분 반갑습니다! 🙂
 
-- 사용자의 경험을 중요시하여 기능을 구현하고, 사용자가 불편하게 여기는 문제가 있다면 사용자의 입장에서 문제를 이해하고 개선하도록 노력합니다.
-- 빠르게 움직이는 프론트엔드 트렌드에 관심을 가지고 프로젝트에 적용 혹은 구축 시킬 수 있는지 고민합니다.
-- 만약 적용시켰다면 새 기술에 대한 책임감을 가지고 새 기술의 문제에서 트러블슈팅을 담당해 함께 커뮤니케이션하며 해결하려고 합니다.
-- 트렌드에도 민감하지만 실질적인 프론트엔드 직무의 실력은 기초에서 시작함을 깨닫고 학습중입니다.
-- 동료와의 협업을 위해 커밋메세지/변수명 등을 신경써서 만들고 클린코드를 작성하도록 노력합니다.
+더 멀리 더 크게 가기 위해선 **함께** 가야한다는 가치를 믿는 개발자 김하영입니다.
 
 # STACKS 🛠️
 <div> 
