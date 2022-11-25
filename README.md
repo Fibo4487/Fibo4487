@@ -1,6 +1,6 @@
 [![waving](https://capsule-render.vercel.app/api?type=waving&color=344765:344765,4F6188:4F6188&text=Kim%20Hayeong&fontColor=BBC8CA&fontAlign=80&fontAlignY=30&fontSize=40&height=180&desc=Front-End%20Developer&descAlign=84&descAlignY=55&animation=fadeIn)](https://github.com/kyechan99/capsule-render)
 
-# 제 프로필에 오신 여러분 반갑습니다! 🙂
+# 제 프로필에 오신 여러분 반갑습니다! 🙂 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFibo4487&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 더 멀리 더 크게 가기 위해선 **함께** 가야한다는 가치를 믿는 개발자 김하영입니다.
 
