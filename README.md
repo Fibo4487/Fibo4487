@@ -28,11 +28,11 @@
 
 # Recent Blog Posts 📃
 <!-- BLOG-POST-LIST:START -->
+- [자바스크립트 Deep Dive - week 4](https://velog.io/@hameo/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-week-4)
 - [깃허브 프로필에 블로그 포스트 자동 업데이트하는법](https://velog.io/@hameo/%EA%B9%83%ED%97%88%EB%B8%8C-%ED%94%84%EB%A1%9C%ED%95%84%EC%97%90-%EB%B2%A8%EB%A1%9C%EA%B7%B8-%ED%8F%AC%EC%8A%A4%ED%8A%B8-%EC%9E%90%EB%8F%99-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%98%EB%8A%94%EB%B2%95)
 - [자바스크립트 Deep Dive - week 3](https://velog.io/@hameo/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-week-3)
 - [실행 컨텍스트에 대해 설명해주세요.](https://velog.io/@hameo/%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%97%90-%EB%8C%80%ED%95%B4-%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94)
 - [자바스크립트 deep dive - week 2](https://velog.io/@hameo/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-deep-dive-week-2)
-- [next.js styled-components 정적페이지 적용 안되는 버그 해결](https://velog.io/@hameo/next.js-styled-components-%EC%A0%95%EC%A0%81%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%A0%81%EC%9A%A9-%EC%95%88%EB%90%98%EB%8A%94-%EB%B2%84%EA%B7%B8-%ED%95%B4%EA%B2%B0)
 <!-- BLOG-POST-LIST:END -->
 
 # Stats 🔍
