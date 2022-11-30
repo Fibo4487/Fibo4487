@@ -3,6 +3,7 @@
 # 제 프로필에 오신 여러분 반갑습니다! 🙂 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFibo4487&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 더 멀리 더 크게 가기 위해선 **함께** 가야한다는 가치를 믿는 개발자 김하영입니다.
+저를 더 알고 싶으시다면 [포트폴리오](https://elderly-pyrite-90a.notion.site/5efe769902d6455eb514d21c67fbfed1)를 확인해주세요
 
 # STACKS 🛠️
 <div> 
