@@ -29,11 +29,11 @@
 
 # Recent Blog Posts 📃
 <!-- BLOG-POST-LIST:START -->
+- [자바스크립트 Deep Dive - week 6](https://velog.io/@hameo/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-week-6)
+- [자바스크립트 Deep Dive - week 5](https://velog.io/@hameo/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-week-4-gx5gdla4)
 - [CORS를 설명해주세요.](https://velog.io/@hameo/CORS%EB%A5%BC-%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94)
 - [async await 그리고 Promise](https://velog.io/@hameo/async-await-%EA%B7%B8%EB%A6%AC%EA%B3%A0-Promise)
 - [자바스크립트 Deep Dive - week 4](https://velog.io/@hameo/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-week-4)
-- [깃허브 프로필에 블로그 포스트 자동 업데이트하는법](https://velog.io/@hameo/%EA%B9%83%ED%97%88%EB%B8%8C-%ED%94%84%EB%A1%9C%ED%95%84%EC%97%90-%EB%B2%A8%EB%A1%9C%EA%B7%B8-%ED%8F%AC%EC%8A%A4%ED%8A%B8-%EC%9E%90%EB%8F%99-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%ED%95%98%EB%8A%94%EB%B2%95)
-- [자바스크립트 Deep Dive - week 3](https://velog.io/@hameo/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-week-3)
 <!-- BLOG-POST-LIST:END -->
 
 # Stats 🔍
