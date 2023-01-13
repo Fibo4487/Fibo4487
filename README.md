@@ -29,11 +29,11 @@
 
 # Recent Blog Posts 📃
 <!-- BLOG-POST-LIST:START -->
-- [미소 면접 회고록](https://velog.io/@hameo/%EB%AF%B8%EC%86%8C-%EB%A9%B4%EC%A0%91-%ED%9A%8C%EA%B3%A0%EB%A1%9D)
 - [자바스크립트 Deep Dive - week 6](https://velog.io/@hameo/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-week-6)
 - [자바스크립트 Deep Dive - week 5](https://velog.io/@hameo/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-week-4-gx5gdla4)
 - [CORS를 설명해주세요.](https://velog.io/@hameo/CORS%EB%A5%BC-%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94)
 - [async await 그리고 Promise](https://velog.io/@hameo/async-await-%EA%B7%B8%EB%A6%AC%EA%B3%A0-Promise)
+- [자바스크립트 Deep Dive - week 4](https://velog.io/@hameo/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-week-4)
 <!-- BLOG-POST-LIST:END -->
 
 # Stats 🔍
