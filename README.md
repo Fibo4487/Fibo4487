@@ -29,11 +29,11 @@
 
 # Recent Blog Posts 📃
 <!-- BLOG-POST-LIST:START -->
+- [맥 환경에서 일렉트론 리눅스 빌드 에러 해결](https://velog.io/@hameo/%EB%A7%A5-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EC%9D%BC%EB%A0%89%ED%8A%B8%EB%A1%A0-%EB%A6%AC%EB%88%85%EC%8A%A4-%EB%B9%8C%EB%93%9C-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0)
 - [RFC에서 RSC 톺아보기](https://velog.io/@hameo/React-Server-Components)
 - [wanted 7월 챌린지 사전과제](https://velog.io/@hameo/wanted-7%EC%9B%94-%EC%B1%8C%EB%A6%B0%EC%A7%80-%EC%82%AC%EC%A0%84%EA%B3%BC%EC%A0%9C)
 - [자바스크립트 Deep Dive - week 6](https://velog.io/@hameo/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-week-6)
 - [자바스크립트 Deep Dive - week 5](https://velog.io/@hameo/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-week-4-gx5gdla4)
-- [CORS를 설명해주세요.](https://velog.io/@hameo/CORS%EB%A5%BC-%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94)
 <!-- BLOG-POST-LIST:END -->
 
 # Stats 🔍
