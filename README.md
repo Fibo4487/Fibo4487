@@ -35,13 +35,3 @@
 - [자바스크립트 Deep Dive - week 6](https://velog.io/@hameo/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-week-6)
 - [자바스크립트 Deep Dive - week 5](https://velog.io/@hameo/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-Deep-Dive-week-4-gx5gdla4)
 <!-- BLOG-POST-LIST:END -->
-
-# Stats 🔍
-<div align="center">
-
-|                                                       Solved.ac                                                        |                                                             Languages                                                              |
-| :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: |
-| [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=khy2246)](https://solved.ac/profile/khy2246) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fibo4487&layout=compact&theme=prussian&langs_count=8) |
-
-| [![Fibo4487's github stats](https://github-readme-stats.vercel.app/api?username=Fibo4487&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats) |
-| :-----------------------------------------------------------------------------------------------------------------------: |
